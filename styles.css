@@ -1,0 +1,82 @@
+body{
+	background-image: url("http://www.planwallpaper.com/static/images/Nature-Background-Wallpapers-8_gxwmqmj.jpg");
+	
+}
+
+h1{
+	font-size: 95px;
+	font-family: "Comic Sans MS";
+	text-align: center;
+}
+
+h2{	font-family: cursive;
+	font-size: 50px;
+	line-height: 4.0 ;
+	text-align: center;
+	color: red;
+	text-decoration: underline;
+}
+#p1{
+	font-size: 30px;
+	color: red;
+}
+
+h3{
+	font-family: fantasy;
+	font-size: 50px;
+	text-align: center;
+	color: rgb(0,0,128);
+	text-decoration: underline;
+}
+
+#p2{
+	font-size: 30px;
+	color: rgb(0);
+	text-align: center;
+}
+
+#facebook{
+	width: 100px;
+	height: 100px;
+}
+
+#draymond{
+	width: 600px;
+	height: 150px;
+}
+
+#instagram{
+	width: 100px;
+	height:100px;
+}
+
+#portfolio{
+	width:100px;
+	height: 100px;
+}
+
+#p3{
+	line-height: 2.5 ;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+#fairytail{
+	width:100px;
+	height:100px;
+}
+
+#naruto{
+	width: 100px;
+	height:100px;
+}
+
+#p4{
+	font-size: 50px;
+	text-align: center;
+}
+
+#myphoto{
+	width: 700px;
+	height: 700px;
+}
