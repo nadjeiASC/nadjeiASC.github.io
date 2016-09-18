@@ -1,6 +1,5 @@
 body{
-	background-image: url("http://www.planwallpaper.com/static/images/Nature-Background-Wallpapers-8_gxwmqmj.jpg");
-	background-repeat: no-repeat;
+	background-image: url("http://thednetworks.com/wp-content/uploads/2011/02/nat_530.jpg");
 	
 }
 
@@ -78,6 +77,7 @@ h3{
 }
 
 #myphoto{
-	width: 700px;
-	height: 700px;
+	width: 1180px;
+	height: 650px;
+	padding: 50px 50px 50px 70px;
 }
